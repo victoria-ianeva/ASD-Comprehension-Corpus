@@ -1,0 +1,5 @@
+Modelling and simulation
+
+Electronic circuits can be modelled in real life using a prototyping board - also known as a breadboard. However, this can be time consuming and uses real components, which can be damaged. Computerised simulation software can be used to test circuits without the need to physically build them. In addition, the computer simulation can be saved and edited.
+Simulation software can also be used to simulate control programmes for programmable interface controllers (PICs). Typically, flowchart symbols can be placed or dragged on-screen. The action will be simulated to ensure that they operate as intended.
+

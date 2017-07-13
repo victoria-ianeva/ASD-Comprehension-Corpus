@@ -1,0 +1,10 @@
+Cells
+Animal cells and plant cells contain tiny objects called mitochondria in their cytoplasm
+Animal cells and plant cells both contain:
+·	Cell membrane - Controls the movement of substances into and out of the cell
+·	Cytoplasm - Jelly-like substance, where chemical reactions happen
+·	Nucleus - Carries genetic information and controls what happens inside the cell
+·	Mitochondria - Where most respiration reactions happen
+Plant cells also contain these parts, which are not found in animal cells:
+·	Cell wall - Made of a tough substance called cellulose, which supports the cell
+·	Vacuole - Contains a liquid called cell sap, which keeps the cell firm
