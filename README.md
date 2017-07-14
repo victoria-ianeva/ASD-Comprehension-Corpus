@@ -8,8 +8,12 @@ Yaneva, V. (2016) Assessing Text and Web Accessibility for People with Autism Sp
 
 BibTex:
 
-@phdthesis{yaneva2016assessing,\\
-  title={Assessing text and web accessibility for people with autism spectrum disorder},\\
-  author={Yaneva, Victoria},\\
-  year={2016}\\
+@phdthesis{yaneva2016assessing,
+
+  title={Assessing text and web accessibility for people with autism spectrum disorder},
+  
+  author={Yaneva, Victoria},
+  
+  year={2016}
+  
 }
